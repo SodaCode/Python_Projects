@@ -22,9 +22,9 @@ pip install requirements.txt
 
 A list of the projects contained within this folder, with a brief description of each project.
 
-    Project 1: A description of project 1.
-    Project 2: A description of project 2.
-    Project 3: A description of project 3.
+    Covid19 Data Analysis Using Python: A description of project 1.
+    Covid19 Deaths VS world happiness: A description of project 2.
+    EDA with Python and Pandas: A description of project 3.
 
 ## License
 
